@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="face.svg"
+   inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\face-neutral.png"
+   inkscape:export-xdpi="183.62"
+   inkscape:export-ydpi="183.62">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-52.142857"
+     inkscape:cy="600.8122"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3336"
+       cx="117.68277"
+       cy="138.17413"
+       rx="54.548237"
+       ry="68.185295" />
+    <ellipse
+       ry="68.185295"
+       rx="54.548237"
+       cy="138.17413"
+       cx="227.68277"
+       id="ellipse3338"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130.81475,249.796 c 0,0 -4.04061,16.16244 37.37565,17.17259 41.41625,1.01015 36.36549,-15.15229 36.36549,-15.15229"
+       id="path3340"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e5eae8;stroke-width:5.19259834;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4142"
+       width="279.61966"
+       height="287.70087"
+       x="38.987179"
+       y="18.567362" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-345.4722"
+       y="163.42798"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="-345.4722"
+         y="163.42798">happy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-250.51784"
+       y="862.45349"
+       id="text4148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="-250.51784"
+         y="862.45349">sad</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.53559,43.724878 84.85281,17.17259"
+       id="path4152"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4154"
+       d="M 148.3884,44.724878 63.53559,61.897468"
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="68.185295"
+       rx="54.548237"
+       cy="478.17413"
+       cx="117.68277"
+       id="ellipse4156"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse4158"
+       cx="227.68277"
+       cy="478.17413"
+       rx="54.548237"
+       ry="68.185295" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4160"
+       d="m 130.81475,608.90877 c 0,0 -4.04061,-16.16244 37.37565,-17.17259 41.41625,-1.01015 36.36549,15.15229 36.36549,15.15229"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="358.56735"
+       x="38.987179"
+       height="287.70087"
+       width="279.61966"
+       id="rect4162"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e5eae8;stroke-width:5.19259834;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4164"
+       d="M 193.53559,400.89747 278.3884,383.72488"
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 148.3884,401.89747 63.53559,384.72488"
+       id="path4166"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse4168"
+       cx="117.68277"
+       cy="798.17413"
+       rx="54.548237"
+       ry="68.185295" />
+    <ellipse
+       ry="68.185295"
+       rx="54.548237"
+       cy="798.17413"
+       cx="227.68277"
+       id="ellipse4170"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130.81475,928.90877 c 0,0 -4.04061,-16.16244 37.37565,-17.17259 41.41625,-1.01015 36.36549,15.15229 36.36549,15.15229"
+       id="path4172"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e5eae8;stroke-width:5.19259834;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4174"
+       width="279.61966"
+       height="287.70087"
+       x="38.987179"
+       y="678.56738" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.53559,704.72488 84.85281,17.17259"
+       id="path4176"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4178"
+       d="M 148.3884,703.72488 63.53559,720.89747"
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="50.680836"
+       rx="40.54467"
+       cy="137.85704"
+       cx="491.9404"
+       id="ellipse4180"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse4182"
+       cx="573.70129"
+       cy="137.85704"
+       rx="40.54467"
+       ry="50.680836"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4184"
+       d="m 506.20612,241.84661 c 0,0 -3.00331,12.01324 27.78061,12.76406 30.78391,0.75083 27.02978,-11.26241 27.02978,-11.26241"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <rect
+       y="22.47467"
+       x="399.50357"
+       height="275.72379"
+       width="275.72382"
+       id="rect4186"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e5eae8;stroke-width:5.0478282;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4188"
+       d="m 548.32036,67.654698 63.06948,12.764061"
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 514.76331,68.397979 451.69383,81.16204"
+       id="path4190"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000014;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4192"
+       cx="536.92786"
+       cy="237.71707"
+       rx="57.813694"
+       ry="52.557903"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 590.23658,51.511921 48.05294,-15.016544 -4.50497,43.54798"
+       id="path4194"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4196"
+       d="m 476.35209,51.511921 -48.05293,-15.016544 4.50496,43.54798"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000014;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4198"
+       cx="535.44128"
+       cy="197.90814"
+       rx="20.272335"
+       ry="15.767371"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-happy.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse4200"
+       cx="491.9404"
+       cy="477.85706"
+       rx="40.54467"
+       ry="50.680836"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       ry="50.680836"
+       rx="40.54467"
+       cy="477.85706"
+       cx="573.70129"
+       id="ellipse4202"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 506.20612,596.05277 c 0,0 -3.00331,-12.01324 27.78061,-12.76406 30.78391,-0.75083 27.02978,11.26241 27.02978,11.26241"
+       id="path4204"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e5eae8;stroke-width:5.0478282;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4206"
+       width="275.72382"
+       height="275.72379"
+       x="399.50357"
+       y="362.47467"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 548.32036,407.6547 63.06948,12.76406"
+       id="path4208"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4210"
+       d="m 514.76331,408.39798 -63.06948,12.76406"
+       style="fill:none;fill-rule:evenodd;stroke:#000014;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       ry="52.557903"
+       rx="57.813694"
+       cy="577.71704"
+       cx="536.92786"
+       id="ellipse4212"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000014;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4214"
+       d="m 613.35721,391.30104 49.77485,7.55287 -23.12774,37.17296"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.71640515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 462.59745,396.71219 -50.09616,-4.99552 13.21276,41.739"
+       id="path4216"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+    <ellipse
+       ry="15.767371"
+       rx="20.272335"
+       cy="537.90814"
+       cx="535.44128"
+       id="ellipse4218"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000014;stroke-width:3.71640515;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\7yl4r\Documents\Processing\emotiveCan\data\animal-sad.png"
+       inkscape:export-xdpi="183.62"
+       inkscape:export-ydpi="183.62" />
+  </g>
+</svg>
