@@ -6,17 +6,31 @@ float mx;
 float my;
 float easing = 0.5;
 float esize = 45;
+int cigCount = 99;
 
 void setup() {
   fullScreen();
   noStroke(); 
+  noCursor();
   smooth();
   ellipseMode(RADIUS);  
 
   // Images must be in the "data" directory to load correctly
-  img = loadImage("face-neutral.png");
   happy = loadImage("animal-happy.png");
   sad = loadImage("animal-sad.png");
+  
+  img = happy;
+}
+
+void addCig(){
+  // cig added to can
+  cigCount++;
+  makeHappy();
+}
+
+void ignoreTray(){
+  // user ignores can & drops cig on ground
+  makeSad();
 }
 
 void makeHappy(){
@@ -28,8 +42,10 @@ void makeSad(){
 }
 
 void draw() {
-  //image(img, 0, 0);
+  // clear
   background(255);
+  
+  // draw face bg
   image(img, 0, 0, 1162/2, 1195/2);
   
   int eyeH = 100;
@@ -39,7 +55,6 @@ void draw() {
   int eyeY = 200;
   
   // eyes follow the target
-  
   int targetX = mouseX;
   int targetY = mouseY;
     if(abs(targetX - mx) > 0.1) {
@@ -58,15 +73,20 @@ void draw() {
     ellipse(mx1, my1, esize, esize);
     ellipse(mx2, my2, esize, esize);
     
+    // draw cig counter
+    textSize(50);
+    fill(0, 102, 153);
+    text("cigarettes eaten:" + str(cigCount), 700, 300);
+    
     handleKeyPress();
 }
 
 void handleKeyPress() {
   if (keyPressed) {
     if (key == 'h' || key == 'H') {
-      makeHappy();
+      addCig();
     } else if(key == 's' || key == 'S'){
-      makeSad();
+      ignoreTray();
     }
   } 
 }
